@@ -58,20 +58,18 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃MASTER MD SESSION IS 
+┃MR CHAMA MD SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥
+┃CONNECTED 🗿❤️
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
+❶ || Creator = Mr Chamalka👨‍💻❤️
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94720797915
+❸ || Owner = https://wa.me/+94741850340
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || FaceBook = https://www.facebook.com/profile.php?id=100089180711131
+❹ || FaceBook = https://www.facebook.com/profile.php?id=100085434071393&mibextid=ZbWKwL
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
