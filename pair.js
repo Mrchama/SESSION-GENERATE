@@ -57,21 +57,19 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: "" + b64data });
 
                let SIGMA_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃MR CHAMA MD SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED 🗿❤️
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Mr Chamalka_👨‍💻❤️
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94741850340
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❹ || FaceBook = https://www.facebook.com/profile.php?id=100085434071393&mibextid=ZbWKwL
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ`
+ 
+ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐑 𝐂𝐇𝐀𝐌𝐀 𝐌𝐃
+
+
+*MR CHAMA MD SESSION IS 
+ SUCCESSFULLY
+ CONNECTED* 🗿❤️
+
+*Created By = Mr Chamalka*_👨‍💻❤️
+
+*𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝙲𝙷𝙰𝙼𝙰-𝙼𝙳 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*
+
+•*Github:* https://github.com/Mrchama/MR-CHAMA-MD`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
