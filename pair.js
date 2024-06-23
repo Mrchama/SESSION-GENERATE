@@ -58,18 +58,16 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
  
- 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐑 𝐂𝐇𝐀𝐌𝐀 𝐌𝐃
+ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗠𝗥 𝗖𝗛𝗔𝗠𝗔 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
 
-
-*MR CHAMA MD SESSION IS 
- SUCCESSFULLY
- CONNECTED* 🗿❤️
-
-*Created By = Mr Chamalka*_👨‍💻❤️
+ 
+ 𝙼𝚁 𝙲𝙷𝙰𝙼𝙰 𝙼𝙳 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙸𝚂 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳✅❤️
 
 *𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝙲𝙷𝙰𝙼𝙰-𝙼𝙳 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*
 
-•*Github:* https://github.com/Mrchama/MR-CHAMA-MD`
+•𝗚𝗶𝘁𝗵𝘂𝗯:https://github.com/Mrchama/MR-CHAMA-MD
+
+ ᴄʀᴇᴀᴛᴇᴅ ʙᴜ ᴍʀ ᴄʜᴀᴍᴀʟᴋᴀ`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
